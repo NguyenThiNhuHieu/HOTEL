@@ -1,0 +1,286 @@
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DoiMauVaFont.resources
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangXuat.resources
+D:\File\C#_winform\DA1\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangXuat.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DoiMauVaFont.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatDichVu.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinTraPhong.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.TraPhong.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\LeNgocMinhBTTH.Bai20.resources
+D:\File\C#_winform\Đề án QT phòng KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Cau20.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\LeNgocMinhBTTH.Bai20.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Cau20.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangXuat.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatDichVu.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DoiMauVaFont.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinTraPhong.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.TraPhong.resources
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+C:\Users\marin\Desktop\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+C:\Users\Miau\Downloads\Newww\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\Mới\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+D:\HỌC KÌ 3 (2021_2022)\LẬP TRÌNH GIAO DIỆN\ĐỒ ÁN LẬP TRÌNH GIAO DIỆN\DeAn_QT_KS\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+C:\Users\Miau\Downloads\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+D:\File\C#_winform\1_NguyenThiNhuHieu_2054052019\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+D:\File\C#_winform\QL Phòng\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.exe
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.deps.json
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.runtimeconfig.json
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\bin\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.AssemblyReference.cache
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DangNhap.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.DatPhong.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.LienHe.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Menu.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.Properties.Resources.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.QuanTriVien.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinDichVu.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinKhachHang.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.ThongTinPhong.resources
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.GenerateResource.cache
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfoInputs.cache
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.AssemblyInfo.cs
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.csproj.CoreCompileInputs.cache
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.dll
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\refint\DeAn_QT_KS.dll
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.pdb
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\DeAn_QT_KS.genruntimeconfig.cache
+C:\Users\ntnhu\Downloads\DeAn_QT_KS - Copy\DeAn_QT_KS - Copy\DeAn_QT_KS\obj\Debug\net6.0-windows\ref\DeAn_QT_KS.dll

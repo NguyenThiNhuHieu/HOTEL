@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeAn_QT_KS/1.0.0": {
+        "runtime": {
+          "DeAn_QT_KS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeAn_QT_KS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
